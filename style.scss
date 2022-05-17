@@ -1,0 +1,20 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+@import "node_modules/animate.css/animate.min.css";
+
+.body-bg{
+  background-color: #d5e1ef;
+}
+
+.card-round{
+  border-radius: 17px;
+}
+
+.card-text{
+  font-size: 12px;
+  color: #c5c6c9;
+}
+
+img:hover{
+  transform: scale(1.5);
+}
